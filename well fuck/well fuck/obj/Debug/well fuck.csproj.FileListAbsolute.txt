@@ -1,0 +1,6 @@
+C:\Users\kote7\source\repos\well fuck\well fuck\bin\Debug\well fuck.exe.config
+C:\Users\kote7\source\repos\well fuck\well fuck\bin\Debug\well fuck.exe
+C:\Users\kote7\source\repos\well fuck\well fuck\bin\Debug\well fuck.pdb
+C:\Users\kote7\source\repos\well fuck\well fuck\obj\Debug\well fuck.csprojAssemblyReference.cache
+C:\Users\kote7\source\repos\well fuck\well fuck\obj\Debug\well fuck.exe
+C:\Users\kote7\source\repos\well fuck\well fuck\obj\Debug\well fuck.pdb
