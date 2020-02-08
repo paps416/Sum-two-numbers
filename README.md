@@ -1,4 +1,4 @@
-# Simple-Addition-Program
+# Sum-two-numbers
 With this program you can sum two numbers!
 
 How to use:
